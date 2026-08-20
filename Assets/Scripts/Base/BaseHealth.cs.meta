@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b06bfbead702a744196799c1f0ad1c57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - hitSound: {instanceID: 0}
+  - deflectSound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - deathSoundPlayer: {instanceID: 0}
+  - hitEffect: {instanceID: 0}
+  - deathEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

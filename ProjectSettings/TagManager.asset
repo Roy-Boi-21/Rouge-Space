@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - ProjectileIgnore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - IgnoreAll
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2999761371
+    locked: 0
+  - name: BackgroundDecor
+    uniqueID: 1991701763
+    locked: 0
+  - name: BackgroundParticles
+    uniqueID: 960507445
+    locked: 0
+  - name: GamegroundProjectiles
+    uniqueID: 1601201513
+    locked: 0
+  - name: Gameground
+    uniqueID: 3642286021
+    locked: 0
+  - name: Foreground
+    uniqueID: 2634749637
+    locked: 0
+  m_RenderingLayers:
+  - Default

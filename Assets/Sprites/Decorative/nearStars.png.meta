@@ -1,0 +1,2834 @@
+fileFormatVersion: 2
+guid: 10ba4c1a121c368479967ff317704a9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2114753779927542851
+    second: nearStars_0
+  - first:
+      213: -4771977333402827839
+    second: nearStars_1
+  - first:
+      213: 3128871578871923967
+    second: nearStars_2
+  - first:
+      213: 6655858546381441668
+    second: nearStars_3
+  - first:
+      213: -5790097484476942768
+    second: nearStars_4
+  - first:
+      213: 6736437977186513987
+    second: nearStars_5
+  - first:
+      213: -8178422028834311934
+    second: nearStars_6
+  - first:
+      213: -3109613438551188272
+    second: nearStars_7
+  - first:
+      213: -8353946106489465539
+    second: nearStars_8
+  - first:
+      213: -4130114388355749633
+    second: nearStars_9
+  - first:
+      213: -5323125687509755954
+    second: nearStars_10
+  - first:
+      213: 4355439548894037821
+    second: nearStars_11
+  - first:
+      213: -465706164784696757
+    second: nearStars_12
+  - first:
+      213: 2773399459952398900
+    second: nearStars_13
+  - first:
+      213: -7646125350306881692
+    second: nearStars_14
+  - first:
+      213: 9135882889224938034
+    second: nearStars_15
+  - first:
+      213: -5039218629629357438
+    second: nearStars_16
+  - first:
+      213: -2888559537978694443
+    second: nearStars_17
+  - first:
+      213: 8654757691220386960
+    second: nearStars_18
+  - first:
+      213: 6055588791126000909
+    second: nearStars_19
+  - first:
+      213: 152236582418174621
+    second: nearStars_20
+  - first:
+      213: -2130544034177227927
+    second: nearStars_21
+  - first:
+      213: -4188080452194071655
+    second: nearStars_22
+  - first:
+      213: -5567829502936438350
+    second: nearStars_23
+  - first:
+      213: 8146008839978291575
+    second: nearStars_24
+  - first:
+      213: 4724826707072733724
+    second: nearStars_25
+  - first:
+      213: 7445762033425418494
+    second: nearStars_26
+  - first:
+      213: -4385102040309176454
+    second: nearStars_27
+  - first:
+      213: 4372071591243360339
+    second: nearStars_28
+  - first:
+      213: 7032888193213485029
+    second: nearStars_29
+  - first:
+      213: -3320083853866265685
+    second: nearStars_30
+  - first:
+      213: -5699706903728784845
+    second: nearStars_31
+  - first:
+      213: 7156336556838417512
+    second: nearStars_32
+  - first:
+      213: 8067993969409282408
+    second: nearStars_33
+  - first:
+      213: 3590423544727996998
+    second: nearStars_34
+  - first:
+      213: 8209193948453094269
+    second: nearStars_35
+  - first:
+      213: -2574717256389424600
+    second: nearStars_36
+  - first:
+      213: -4025186253547352825
+    second: nearStars_37
+  - first:
+      213: -6087686872365123270
+    second: nearStars_38
+  - first:
+      213: 1906924059207555219
+    second: nearStars_39
+  - first:
+      213: 3078832980889262858
+    second: nearStars_40
+  - first:
+      213: -5718211032337362029
+    second: nearStars_41
+  - first:
+      213: -296823749923866962
+    second: nearStars_42
+  - first:
+      213: 8423030504925731801
+    second: nearStars_43
+  - first:
+      213: -2396982806740680681
+    second: nearStars_44
+  - first:
+      213: 1912713150404616902
+    second: nearStars_45
+  - first:
+      213: -1659729346541823427
+    second: nearStars_46
+  - first:
+      213: -5537660857634068921
+    second: nearStars_47
+  - first:
+      213: -2929268485301332843
+    second: nearStars_48
+  - first:
+      213: -6541288826484766303
+    second: nearStars_49
+  - first:
+      213: -2002400022435336175
+    second: nearStars_50
+  - first:
+      213: -7383184168282602372
+    second: nearStars_51
+  - first:
+      213: 4700180867842002807
+    second: nearStars_52
+  - first:
+      213: -1837328910622622662
+    second: nearStars_53
+  - first:
+      213: 549796535914606609
+    second: nearStars_54
+  - first:
+      213: -5496333239594336413
+    second: nearStars_55
+  - first:
+      213: 5393207038369348986
+    second: nearStars_56
+  - first:
+      213: 4328461942778622968
+    second: nearStars_57
+  - first:
+      213: -7134743177075287777
+    second: nearStars_58
+  - first:
+      213: 8731123436117905697
+    second: nearStars_59
+  - first:
+      213: -4121269467224851988
+    second: nearStars_60
+  - first:
+      213: 1738892739402704688
+    second: nearStars_61
+  - first:
+      213: -4720313155049852695
+    second: nearStars_62
+  - first:
+      213: -2542970212079436673
+    second: nearStars_63
+  - first:
+      213: -5656668982021726457
+    second: nearStars_64
+  - first:
+      213: 6714854233152865527
+    second: nearStars_65
+  - first:
+      213: 2615565822866041353
+    second: nearStars_66
+  - first:
+      213: 6450390329420674166
+    second: nearStars_67
+  - first:
+      213: 7238992001573717351
+    second: nearStars_68
+  - first:
+      213: -8982584966635747833
+    second: nearStars_69
+  - first:
+      213: 465086531603384151
+    second: nearStars_70
+  - first:
+      213: -4817190776068505059
+    second: nearStars_71
+  - first:
+      213: 2419067593950853185
+    second: nearStars_72
+  - first:
+      213: -94062907987844786
+    second: nearStars_73
+  - first:
+      213: 4722506578674947021
+    second: nearStars_74
+  - first:
+      213: -8527624023929613927
+    second: nearStars_75
+  - first:
+      213: 9003532300832212657
+    second: nearStars_76
+  - first:
+      213: -2907827652059243584
+    second: nearStars_77
+  - first:
+      213: -4784894536460460025
+    second: nearStars_78
+  - first:
+      213: 6322666441397898985
+    second: nearStars_79
+  - first:
+      213: 1248318959162274869
+    second: nearStars_80
+  - first:
+      213: -824553451917346189
+    second: nearStars_81
+  - first:
+      213: 6120642049221338589
+    second: nearStars_82
+  - first:
+      213: 8282313819347838682
+    second: nearStars_83
+  - first:
+      213: -3712787042529224381
+    second: nearStars_84
+  - first:
+      213: -2505224492679668814
+    second: nearStars_85
+  - first:
+      213: 2115936792495019045
+    second: nearStars_86
+  - first:
+      213: -6457303976781996934
+    second: nearStars_87
+  - first:
+      213: 1957833863587165012
+    second: nearStars_88
+  - first:
+      213: 5725413646314672385
+    second: nearStars_89
+  - first:
+      213: 503961316501951601
+    second: nearStars_90
+  - first:
+      213: -5148682097921432523
+    second: nearStars_91
+  - first:
+      213: -2601938207426690721
+    second: nearStars_92
+  - first:
+      213: -4784880739180013962
+    second: nearStars_93
+  - first:
+      213: -1089589017008835740
+    second: nearStars_94
+  - first:
+      213: 9014843439608155588
+    second: nearStars_95
+  - first:
+      213: -5749167503460301010
+    second: nearStars_96
+  - first:
+      213: 7209542341541842186
+    second: nearStars_97
+  - first:
+      213: 5403985553132328724
+    second: nearStars_98
+  - first:
+      213: -6513923275060193219
+    second: nearStars_99
+  - first:
+      213: 5619506887022157532
+    second: nearStars_100
+  - first:
+      213: -1109640235195276583
+    second: nearStars_101
+  - first:
+      213: 7318807561777211652
+    second: nearStars_102
+  - first:
+      213: 2819077334225911442
+    second: nearStars_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nearStars_0
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1018
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ceeffbb5d195d10800000000000000
+      internalID: 2114753779927542851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 995
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c30f46f5e786cdb0800000000000000
+      internalID: -4771977333402827839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 980
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff40a7e9f1cfb6b20800000000000000
+      internalID: 3128871578871923967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a405c651c5e5c50800000000000000
+      internalID: 6655858546381441668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 985
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0567eded30175afa0800000000000000
+      internalID: -5790097484476942768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34437a926a2ac7d50800000000000000
+      internalID: 6736437977186513987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 970
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201f914fe78608e80800000000000000
+      internalID: -8178422028834311934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 955
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc10669d0f68d4d0800000000000000
+      internalID: -3109613438551188272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 940
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3510f9f642d01c80800000000000000
+      internalID: -8353946106489465539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 946
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8635898d2eea6c0800000000000000
+      internalID: -4130114388355749633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 924
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7593de3657026b0800000000000000
+      internalID: -5323125687509755954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 906
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3744809131a17c30800000000000000
+      internalID: 4355439548894037821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_12
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 893
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b427c46e5ba7989f0800000000000000
+      internalID: -465706164784696757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 893
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43219be5d181d7620800000000000000
+      internalID: 2773399459952398900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 879
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f59da318183e590800000000000000
+      internalID: -7646125350306881692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 877
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23262d1751d29ce70800000000000000
+      internalID: 9135882889224938034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 879
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2825963fa59111ab0800000000000000
+      internalID: -5039218629629357438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_17
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 875
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a63a8766c9e7d0800000000000000
+      internalID: -2888559537978694443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 870
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094654ae340eb1870800000000000000
+      internalID: 8654757691220386960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_19
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 860
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0507e0fbe5c90450800000000000000
+      internalID: 6055588791126000909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 850
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92dad87d5adc1200800000000000000
+      internalID: 152236582418174621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_21
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 825
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e9803d79ce62e0800000000000000
+      internalID: -2130544034177227927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 802
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b0734a403f0e5c0800000000000000
+      internalID: -4188080452194071655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 785
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9a88311981bb2b0800000000000000
+      internalID: -5567829502936438350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_24
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 778
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771191c61ef6c0170800000000000000
+      internalID: 8146008839978291575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 776
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12595c5bd4f19140800000000000000
+      internalID: 4724826707072733724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 771
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8896cbe19a45760800000000000000
+      internalID: 7445762033425418494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_27
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 761
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77e7877decf423c0800000000000000
+      internalID: -4385102040309176454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_28
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 764
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35823a0b2f7bcac30800000000000000
+      internalID: 4372071591243360339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 735
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef4785cc86d99160800000000000000
+      internalID: 7032888193213485029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 732
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39ac15351bce1d0800000000000000
+      internalID: -3320083853866265685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 723
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a7767f4c296e0b0800000000000000
+      internalID: -5699706903728784845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_32
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 690
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864fe7bbe2a605360800000000000000
+      internalID: 7156336556838417512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86152a4e4c547ff60800000000000000
+      internalID: 8067993969409282408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_34
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 630
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a06b8e03fb3d130800000000000000
+      internalID: 3590423544727996998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7345d5e66aece170800000000000000
+      internalID: 8209193948453094269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_36
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 599
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a07d7fb44c44cd0800000000000000
+      internalID: -2574717256389424600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_37
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 605
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4682cd6aa328c0800000000000000
+      internalID: -4025186253547352825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 593
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a393ed42b01348ba0800000000000000
+      internalID: -6087686872365123270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 588
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39856ba1451c67a10800000000000000
+      internalID: 1906924059207555219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_40
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 567
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b59a4a8463aba20800000000000000
+      internalID: 3078832980889262858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_41
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 554
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393dfcacc55d4a0b0800000000000000
+      internalID: -5718211032337362029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 534
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea673e04f5871ebf0800000000000000
+      internalID: -296823749923866962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_43
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 531
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db906afd9d94e470800000000000000
+      internalID: 8423030504925731801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_44
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 531
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710c08746d43cbed0800000000000000
+      internalID: -2396982806740680681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_45
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 504
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2e51fe9725b8a10800000000000000
+      internalID: 1912713150404616902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 493
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a5514f3f477f8e0800000000000000
+      internalID: -1659729346541823427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746e22e2ac64623b0800000000000000
+      internalID: -5537660857634068921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_48
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 477
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5941ed125d52957d0800000000000000
+      internalID: -2929268485301332843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_49
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 466
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c424387ca835a0800000000000000
+      internalID: -6541288826484766303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_50
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110f18ce9cb0634e0800000000000000
+      internalID: -2002400022435336175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_51
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 457
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c744a32ed19a98990800000000000000
+      internalID: -7383184168282602372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_52
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 458
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f4fcfb8956a3140800000000000000
+      internalID: 4700180867842002807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 426
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c78c2271f7086e0800000000000000
+      internalID: -1837328910622622662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_54
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 428
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1103ee5590541a700800000000000000
+      internalID: 549796535914606609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_55
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fbec61a0a19b3b0800000000000000
+      internalID: -5496333239594336413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 402
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d342a1a3588da40800000000000000
+      internalID: 5393207038369348986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_57
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 408
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3fd1b2439c11c30800000000000000
+      internalID: 4328461942778622968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_58
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1919c6c1ec4cfc90800000000000000
+      internalID: -7134743177075287777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12155e3718e2b2970800000000000000
+      internalID: 8731123436117905697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce93666414f4ec6c0800000000000000
+      internalID: -4121269467224851988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_61
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 371
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037aa92cbb9c12810800000000000000
+      internalID: 1738892739402704688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_62
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e076acd1341e7eb0800000000000000
+      internalID: -4720313155049852695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cfa9ab01e85bcd0800000000000000
+      internalID: -2542970212079436673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fdf9af7897f71b0800000000000000
+      internalID: -5656668982021726457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4ca952954ff2d50800000000000000
+      internalID: 6714854233152865527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_66
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a259e024b5c4420800000000000000
+      internalID: 2615565822866041353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_67
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674fbb734d3648950800000000000000
+      internalID: 6450390329420674166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 296
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76502b12fd0167460800000000000000
+      internalID: 7238992001573717351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_69
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70689ea8092775380800000000000000
+      internalID: -8982584966635747833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_70
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 283
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c9028cb1547600800000000000000
+      internalID: 465086531603384151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_71
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1206210386e52db0800000000000000
+      internalID: -4817190776068505059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_72
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 270
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1487911f821429120800000000000000
+      internalID: 2419067593950853185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_73
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 267
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4128d69842d1bef0800000000000000
+      internalID: -94062907987844786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_74
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc39d5f56b6b98140800000000000000
+      internalID: 4722506578674947021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 265
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991969ba12bc7a980800000000000000
+      internalID: -8527624023929613927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_76
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 252
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b60cd2cce8f2fc70800000000000000
+      internalID: 9003532300832212657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_77
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 252
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb53f2282255a7d0800000000000000
+      internalID: -2907827652059243584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700219245c3a89db0800000000000000
+      internalID: -4784894536460460025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee0ec821af9eb750800000000000000
+      internalID: 6322666441397898985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_80
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534b04fba7be25110800000000000000
+      internalID: 1248318959162274869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_81
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37af42011099e84f0800000000000000
+      internalID: -824553451917346189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_82
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 203
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd52825e383e0f450800000000000000
+      internalID: 6120642049221338589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_83
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad669808980b0f270800000000000000
+      internalID: 8282313819347838682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 189
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3495f532bd7897cc0800000000000000
+      internalID: -3712787042529224381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb583fd897ab3dd0800000000000000
+      internalID: -2505224492679668814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_86
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 164
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52458d35d415d5d10800000000000000
+      internalID: 2115936792495019045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_87
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 170
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c1131de3c0366a0800000000000000
+      internalID: -6457303976781996934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_88
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453f750a68f9b2b10800000000000000
+      internalID: 1957833863587165012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_89
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10192c47061c47f40800000000000000
+      internalID: 5725413646314672385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_90
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17413a2b52e6ef600800000000000000
+      internalID: 503961316501951601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_91
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534eafb29e43c88b0800000000000000
+      internalID: -5148682097921432523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_92
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c0da6cfe04ebd0800000000000000
+      internalID: -2601938207426690721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_93
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6761190b150b89db0800000000000000
+      internalID: -4784880739180013962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_94
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463750adf8001e0f0800000000000000
+      internalID: -1089589017008835740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_95
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdca9b78582b1d70800000000000000
+      internalID: 9014843439608155588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_96
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e278702bd9ad630b0800000000000000
+      internalID: -5749167503460301010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_97
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d4db4df807d0460800000000000000
+      internalID: 7209542341541842186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_98
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4179bc1aa30defa40800000000000000
+      internalID: 5403985553132328724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3853e72b45e995a0800000000000000
+      internalID: -6513923275060193219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde11d58dbf7cfd40800000000000000
+      internalID: 5619506887022157532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_101
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d264b0d514c990f0800000000000000
+      internalID: -1109640235195276583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_102
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096c2363b0a19560800000000000000
+      internalID: 7318807561777211652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nearStars_103
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ef3ec36ef5f1720800000000000000
+      internalID: 2819077334225911442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nearStars_0: 2114753779927542851
+      nearStars_1: -4771977333402827839
+      nearStars_10: -5323125687509755954
+      nearStars_100: 5619506887022157532
+      nearStars_101: -1109640235195276583
+      nearStars_102: 7318807561777211652
+      nearStars_103: 2819077334225911442
+      nearStars_11: 4355439548894037821
+      nearStars_12: -465706164784696757
+      nearStars_13: 2773399459952398900
+      nearStars_14: -7646125350306881692
+      nearStars_15: 9135882889224938034
+      nearStars_16: -5039218629629357438
+      nearStars_17: -2888559537978694443
+      nearStars_18: 8654757691220386960
+      nearStars_19: 6055588791126000909
+      nearStars_2: 3128871578871923967
+      nearStars_20: 152236582418174621
+      nearStars_21: -2130544034177227927
+      nearStars_22: -4188080452194071655
+      nearStars_23: -5567829502936438350
+      nearStars_24: 8146008839978291575
+      nearStars_25: 4724826707072733724
+      nearStars_26: 7445762033425418494
+      nearStars_27: -4385102040309176454
+      nearStars_28: 4372071591243360339
+      nearStars_29: 7032888193213485029
+      nearStars_3: 6655858546381441668
+      nearStars_30: -3320083853866265685
+      nearStars_31: -5699706903728784845
+      nearStars_32: 7156336556838417512
+      nearStars_33: 8067993969409282408
+      nearStars_34: 3590423544727996998
+      nearStars_35: 8209193948453094269
+      nearStars_36: -2574717256389424600
+      nearStars_37: -4025186253547352825
+      nearStars_38: -6087686872365123270
+      nearStars_39: 1906924059207555219
+      nearStars_4: -5790097484476942768
+      nearStars_40: 3078832980889262858
+      nearStars_41: -5718211032337362029
+      nearStars_42: -296823749923866962
+      nearStars_43: 8423030504925731801
+      nearStars_44: -2396982806740680681
+      nearStars_45: 1912713150404616902
+      nearStars_46: -1659729346541823427
+      nearStars_47: -5537660857634068921
+      nearStars_48: -2929268485301332843
+      nearStars_49: -6541288826484766303
+      nearStars_5: 6736437977186513987
+      nearStars_50: -2002400022435336175
+      nearStars_51: -7383184168282602372
+      nearStars_52: 4700180867842002807
+      nearStars_53: -1837328910622622662
+      nearStars_54: 549796535914606609
+      nearStars_55: -5496333239594336413
+      nearStars_56: 5393207038369348986
+      nearStars_57: 4328461942778622968
+      nearStars_58: -7134743177075287777
+      nearStars_59: 8731123436117905697
+      nearStars_6: -8178422028834311934
+      nearStars_60: -4121269467224851988
+      nearStars_61: 1738892739402704688
+      nearStars_62: -4720313155049852695
+      nearStars_63: -2542970212079436673
+      nearStars_64: -5656668982021726457
+      nearStars_65: 6714854233152865527
+      nearStars_66: 2615565822866041353
+      nearStars_67: 6450390329420674166
+      nearStars_68: 7238992001573717351
+      nearStars_69: -8982584966635747833
+      nearStars_7: -3109613438551188272
+      nearStars_70: 465086531603384151
+      nearStars_71: -4817190776068505059
+      nearStars_72: 2419067593950853185
+      nearStars_73: -94062907987844786
+      nearStars_74: 4722506578674947021
+      nearStars_75: -8527624023929613927
+      nearStars_76: 9003532300832212657
+      nearStars_77: -2907827652059243584
+      nearStars_78: -4784894536460460025
+      nearStars_79: 6322666441397898985
+      nearStars_8: -8353946106489465539
+      nearStars_80: 1248318959162274869
+      nearStars_81: -824553451917346189
+      nearStars_82: 6120642049221338589
+      nearStars_83: 8282313819347838682
+      nearStars_84: -3712787042529224381
+      nearStars_85: -2505224492679668814
+      nearStars_86: 2115936792495019045
+      nearStars_87: -6457303976781996934
+      nearStars_88: 1957833863587165012
+      nearStars_89: 5725413646314672385
+      nearStars_9: -4130114388355749633
+      nearStars_90: 503961316501951601
+      nearStars_91: -5148682097921432523
+      nearStars_92: -2601938207426690721
+      nearStars_93: -4784880739180013962
+      nearStars_94: -1089589017008835740
+      nearStars_95: 9014843439608155588
+      nearStars_96: -5749167503460301010
+      nearStars_97: 7209542341541842186
+      nearStars_98: 5403985553132328724
+      nearStars_99: -6513923275060193219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 5c2a7a30a479f4343baeeb31d504515f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6262708263388507261
+    second: REAL_PILOT_PSA_0
+  - first:
+      213: -8496517918565042530
+    second: REAL_PILOT_PSA_1
+  - first:
+      213: 4320830715130323539
+    second: REAL_PILOT_PSA_2
+  - first:
+      213: -5589064978923788289
+    second: REAL_PILOT_PSA_3
+  - first:
+      213: -8465555194438854064
+    second: REAL_PILOT_PSA_4
+  - first:
+      213: -1246947707590264957
+    second: REAL_PILOT_PSA_5
+  - first:
+      213: -5396211380108117845
+    second: REAL_PILOT_PSA_6
+  - first:
+      213: 6309605677692062302
+    second: REAL_PILOT_PSA_7
+  - first:
+      213: -8234930663183024502
+    second: REAL_PILOT_PSA_8
+  - first:
+      213: -6042377824714366090
+    second: REAL_PILOT_PSA_9
+  - first:
+      213: -8542949750241835259
+    second: REAL_PILOT_PSA_10
+  - first:
+      213: -4239512297558355977
+    second: REAL_PILOT_PSA_11
+  - first:
+      213: 7769879781267659351
+    second: REAL_PILOT_PSA_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 583
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38313d404046619a0800000000000000
+      internalID: -6262708263388507261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 583
+        width: 189
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96703438fd461a80800000000000000
+      internalID: -8496517918565042530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 583
+        width: 72
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a0f584aca6fb30800000000000000
+      internalID: 4320830715130323539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 583
+        width: 38
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7eba88307af62b0800000000000000
+      internalID: -5589064978923788289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_4
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 581
+        width: 271
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a5201376e448a80800000000000000
+      internalID: -8465555194438854064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 167
+        width: 526
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3873893aaa3f1bee0800000000000000
+      internalID: -1246947707590264957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 13
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba83cb3175ecc15b0800000000000000
+      internalID: -5396211380108117845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 13
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a8f932fe8309750800000000000000
+      internalID: 6309605677692062302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 15
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef00f3136a7bd80800000000000000
+      internalID: -8234930663183024502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673e33fd169252ca0800000000000000
+      internalID: -6042377824714366090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 13
+        width: 252
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507c2d2f678517980800000000000000
+      internalID: -8542949750241835259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_11
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 15
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff422bf60a3a25c0800000000000000
+      internalID: -4239512297558355977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REAL_PILOT_PSA_12
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 15
+        width: 217
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ad2f59e7824db60800000000000000
+      internalID: 7769879781267659351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      REAL_PILOT_PSA_0: -6262708263388507261
+      REAL_PILOT_PSA_1: -8496517918565042530
+      REAL_PILOT_PSA_10: -8542949750241835259
+      REAL_PILOT_PSA_11: -4239512297558355977
+      REAL_PILOT_PSA_12: 7769879781267659351
+      REAL_PILOT_PSA_2: 4320830715130323539
+      REAL_PILOT_PSA_3: -5589064978923788289
+      REAL_PILOT_PSA_4: -8465555194438854064
+      REAL_PILOT_PSA_5: -1246947707590264957
+      REAL_PILOT_PSA_6: -5396211380108117845
+      REAL_PILOT_PSA_7: 6309605677692062302
+      REAL_PILOT_PSA_8: -8234930663183024502
+      REAL_PILOT_PSA_9: -6042377824714366090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
